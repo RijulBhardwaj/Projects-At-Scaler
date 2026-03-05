@@ -1,0 +1,5 @@
+train: C:/Users/Rijul Bhardwaj/OneDrive/Desktop/Projects at Scaler/Case Study License Plate Detection & Blurring using YOLOv8/License Plate Detection and Blurring/images/train
+val: C:/Users/Rijul Bhardwaj/OneDrive/Desktop/Projects at Scaler/Case Study License Plate Detection & Blurring using YOLOv8/License Plate Detection and Blurring/images/val
+
+nc: 1
+names: ['license_plate']
